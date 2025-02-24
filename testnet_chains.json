@@ -1,0 +1,41 @@
+{
+  "osmosis-testnet": {
+    "id": "osmosis-testnet",
+    "name": "Osmosis Testnet",
+    "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
+    "rpc_url": "https://osmosis-testnet-rpc.polkachu.com",
+    "api_url": "https://osmosis-testnet-api.polkachu.com",
+    "api_prefix": "/cosmos/staking/v1beta1",
+    "denom": "uosmo",
+    "exponent": 6,
+    "prefix": "osmovalcons",
+    "denom_name": "OSMO",
+    "is_mainnet": false
+  },
+  "celestia-testnet": {
+    "id": "celestia-testnet",
+    "name": "Celestia Testnet",
+    "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.png",
+    "rpc_url": "https://celestia-testnet-rpc.polkachu.com",
+    "api_url": "https://celestia-testnet-api.polkachu.com",
+    "api_prefix": "/cosmos/staking/v1beta1",
+    "denom": "utia",
+    "exponent": 6,
+    "prefix": "celestiavalcons",
+    "denom_name": "TIA",
+    "is_mainnet": false
+  },
+  "axelar-testnet": {
+    "id": "axelar-testnet",
+    "name": "Axelar Testnet",
+    "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png",
+    "rpc_url": "https://axelar-testnet-rpc.polkachu.com",
+    "api_url": "https://axelar-testnet-api.polkachu.com",
+    "api_prefix": "/cosmos/staking/v1beta1",
+    "denom": "uaxl",
+    "exponent": 6,
+    "prefix": "axelarvalcons",
+    "denom_name": "AXL",
+    "is_mainnet": false
+  }
+}
