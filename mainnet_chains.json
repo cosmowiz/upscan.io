@@ -1,0 +1,41 @@
+{
+  "cosmoshub": {
+    "id": "cosmoshub",
+    "name": "Cosmos Hub",
+    "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png",
+    "rpc_url": "https://cosmos-rpc.polkachu.com",
+    "api_url": "https://cosmos-api.polkachu.com",
+    "api_prefix": "/cosmos/staking/v1beta1",
+    "denom": "uatom",
+    "exponent": 6,
+    "prefix": "cosmosvalcons",
+    "denom_name": "ATOM",
+    "is_mainnet": true
+  },
+  "osmosis": {
+    "id": "osmosis",
+    "name": "Osmosis",
+    "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
+    "rpc_url": "https://osmosis-rpc.polkachu.com",
+    "api_url": "https://osmosis-api.polkachu.com",
+    "api_prefix": "/cosmos/staking/v1beta1",
+    "denom": "uosmo",
+    "exponent": 6,
+    "prefix": "osmovalcons",
+    "denom_name": "OSMO",
+    "is_mainnet": true
+  },
+  "juno": {
+    "id": "juno",
+    "name": "Juno",
+    "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png",
+    "rpc_url": "https://juno-rpc.polkachu.com",
+    "api_url": "https://juno-api.polkachu.com",
+    "api_prefix": "/cosmos/staking/v1beta1",
+    "denom": "ujuno",
+    "exponent": 6,
+    "prefix": "junovalcons",
+    "denom_name": "JUNO",
+    "is_mainnet": true
+  }
+}
