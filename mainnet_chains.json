@@ -107,7 +107,7 @@
     "id": "dymension",
     "name": "Dymension",
     "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dymension/images/dymension-logo.svg",
-    "rpc_url": "https://archive.rpc.dym.cumulo.com.es:443",
+    "rpc_url": "https://archive.rpc.dym.cumulo.com.es",
     "api_url": "https://api.dym.cumulo.com.es",
     "api_prefix": "/cosmos/staking/v1beta1",
     "denom": "adym",
